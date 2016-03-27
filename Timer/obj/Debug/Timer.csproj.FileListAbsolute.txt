@@ -1,0 +1,16 @@
+D:\编程\Projects\CSharp3\Timer\Timer\bin\Debug\Timer.exe
+D:\编程\Projects\CSharp3\Timer\Timer\bin\Debug\Timer.pdb
+D:\编程\Projects\CSharp3\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+D:\编程\Projects\CSharp3\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\编程\Projects\CSharp3\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\编程\Projects\CSharp3\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\编程\Projects\CSharp3\Timer\Timer\obj\Debug\Timer.exe
+D:\编程\Projects\CSharp3\Timer\Timer\obj\Debug\Timer.pdb
+D:\huiyadanli\Timer\Timer\obj\Debug\Timer.exe
+D:\huiyadanli\Timer\Timer\obj\Debug\Timer.pdb
+D:\huiyadanli\Timer\Timer\bin\Debug\Timer.exe
+D:\huiyadanli\Timer\Timer\bin\Debug\Timer.pdb
+D:\huiyadanli\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+D:\huiyadanli\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\huiyadanli\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\huiyadanli\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache

@@ -1,0 +1,25 @@
+                //case 1: frame = 30; break;
+                //case 2: frame = 39; break;
+                //case 3: frame = 45; break;
+                //case 4: frame = 57; break;
+                //case 5: frame = 73; break;
+                //case 6: frame = 80; break;
+                //case 7: frame = 91; break;
+                //case 8: frame = 98; break;
+                //case 9: frame = 106; break;
+                //case 0: frame = 112; break;
+
+            //switch (num)
+            //{
+            //    case 1: frame = 46; break;
+            //    case 2: frame = 62; break;
+            //    case 3: frame = 72; break;
+            //    case 4: frame = 91; break;
+            //    case 5: frame = 117; break;
+            //    case 6: frame = 127; break;
+            //    case 7: frame = 147; break;
+            //    case 8: frame = 156; break;
+            //    case 9: frame = 168; break;
+            //    case 0: frame = 179; break;
+            //}
+            return frame;
